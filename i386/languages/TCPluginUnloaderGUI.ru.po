@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ru\n"
+
+#: uguii18n.slogfile
+msgid "Log file:"
+msgstr "Файл журнала:"
+
+#: uguii18n.sstartmonitoringatstartup
+msgid "Start monitoring at startup"
+msgstr "Запускать мониторинг при запуске"
+
+#: uguii18n.sminimizetotray
+msgid "Minimize to tray"
+msgstr "Сворачивать в трей"
+
+#: uguii18n.sclosetotray
+msgid "Close to tray"
+msgstr "Закрывать в трей"
+
+#: uguii18n.sunloadonrhbreak
+msgid "Request plugin unload on RH notification"
+msgstr "Запрашивать выгрузку плагинов по RH-уведомлению"
+
+#: uguii18n.srhdebounce
+msgid "RH debounce (ms):"
+msgstr "Задержка RH (мс):"
+
+#: uguii18n.sstartmonitoring
+msgid "Start monitoring"
+msgstr "Запустить мониторинг"
+
+#: uguii18n.sstop
+msgid "Stop"
+msgstr "Остановить"
+
+#: uguii18n.sunloadwcxhint
+msgid "Unload WCX/packer plugins now (one-time action, not a toggle)."
+msgstr "Выгрузить плагины WCX/архиваторов сейчас (одноразовое действие, не переключатель)."
+
+#: uguii18n.sunloadwfxhint
+msgid "Unload WFX/file-system plugins now (one-time action, not a toggle)."
+msgstr "Выгрузить плагины WFX/файловой системы сейчас (одноразовое действие, не переключатель)."
+
+#: uguii18n.sunloadwlxhint
+msgid "Unload WLX/lister plugins now (one-time action, not a toggle)."
+msgstr "Выгрузить плагины WLX/просмотра сейчас (одноразовое действие, не переключатель)."
+
+#: uguii18n.sunloadwdxhint
+msgid "Unload WDX/content plugins now (one-time action, not a toggle)."
+msgstr "Выгрузить плагины WDX/содержимого сейчас (одноразовое действие, не переключатель)."
+
+#: uguii18n.ssavesettings
+msgid "Save settings"
+msgstr "Сохранить настройки"
+
+#: uguii18n.sclearlog
+msgid "Clear log"
+msgstr "Очистить журнал"
+
+#: uguii18n.sready
+msgid "Ready"
+msgstr "Готово"
+
+#: uguii18n.stotalcommanderinifilter
+msgid "Total Commander INI|wincmd.ini|INI files|*.ini|All files|*.*"
+msgstr "INI Total Commander|wincmd.ini|INI-файлы|*.ini|Все файлы|*.*"
+
+#: uguii18n.slogfilefilter
+msgid "Log files|*.log|All files|*.*"
+msgstr "Файлы журнала|*.log|Все файлы|*.*"
+
+#: uguii18n.sshow
+msgid "Show"
+msgstr "Показать"
+
+#: uguii18n.sstopmonitoring
+msgid "Stop monitoring"
+msgstr "Остановить мониторинг"
+
+#: uguii18n.sexit
+msgid "Exit"
+msgstr "Выход"
+
+#: uguii18n.snoiniconfigured
+msgid "No wincmd.ini is configured."
+msgstr "Файл wincmd.ini не настроен."
+
+#: uguii18n.snopluginentries
+msgid "No plugin entries were found in wincmd.ini."
+msgstr "В wincmd.ini не найдены записи плагинов."
+
+#: uguii18n.sactivestatus
+msgid "Active (RH notification): %d plugins in %d directories"
+msgstr "Активно (RH-уведомление): плагинов — %d, каталогов — %d"
+
+#: uguii18n.serrorstatus
+msgid "Error: %s"
+msgstr "Ошибка: %s"
+
+#: uguii18n.smonitoringtitle
+msgid "Monitoring"
+msgstr "Мониторинг"
+
+#: uguii18n.smonitoringstopped
+msgid "Monitoring stopped"
+msgstr "Мониторинг остановлен"
+
+#: uguii18n.ssettingssaved
+msgid "Settings saved"
+msgstr "Настройки сохранены"

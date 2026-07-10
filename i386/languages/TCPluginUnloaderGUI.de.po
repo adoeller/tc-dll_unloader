@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: de\n"
+
+#: uguii18n.slogfile
+msgid "Log file:"
+msgstr "Logdatei:"
+
+#: uguii18n.sstartmonitoringatstartup
+msgid "Start monitoring at startup"
+msgstr "Überwachung beim Start aktivieren"
+
+#: uguii18n.sminimizetotray
+msgid "Minimize to tray"
+msgstr "In den Tray minimieren"
+
+#: uguii18n.sclosetotray
+msgid "Close to tray"
+msgstr "Beim Schließen in den Tray"
+
+#: uguii18n.sunloadonrhbreak
+msgid "Request plugin unload on RH notification"
+msgstr "Plugin-Entladen bei RH-Benachrichtigung anfordern"
+
+#: uguii18n.srhdebounce
+msgid "RH debounce (ms):"
+msgstr "RH-Entprellung (ms):"
+
+#: uguii18n.sstartmonitoring
+msgid "Start monitoring"
+msgstr "Überwachung starten"
+
+#: uguii18n.sstop
+msgid "Stop"
+msgstr "Stoppen"
+
+#: uguii18n.sunloadwcxhint
+msgid "Unload WCX/packer plugins now (one-time action, not a toggle)."
+msgstr "WCX-/Packer-Plugins jetzt entladen (einmalige Aktion, kein Umschalter)."
+
+#: uguii18n.sunloadwfxhint
+msgid "Unload WFX/file-system plugins now (one-time action, not a toggle)."
+msgstr "WFX-/Dateisystem-Plugins jetzt entladen (einmalige Aktion, kein Umschalter)."
+
+#: uguii18n.sunloadwlxhint
+msgid "Unload WLX/lister plugins now (one-time action, not a toggle)."
+msgstr "WLX-/Lister-Plugins jetzt entladen (einmalige Aktion, kein Umschalter)."
+
+#: uguii18n.sunloadwdxhint
+msgid "Unload WDX/content plugins now (one-time action, not a toggle)."
+msgstr "WDX-/Inhalts-Plugins jetzt entladen (einmalige Aktion, kein Umschalter)."
+
+#: uguii18n.ssavesettings
+msgid "Save settings"
+msgstr "Einstellungen speichern"
+
+#: uguii18n.sclearlog
+msgid "Clear log"
+msgstr "Log löschen"
+
+#: uguii18n.sready
+msgid "Ready"
+msgstr "Bereit"
+
+#: uguii18n.stotalcommanderinifilter
+msgid "Total Commander INI|wincmd.ini|INI files|*.ini|All files|*.*"
+msgstr "Total-Commander-INI|wincmd.ini|INI-Dateien|*.ini|Alle Dateien|*.*"
+
+#: uguii18n.slogfilefilter
+msgid "Log files|*.log|All files|*.*"
+msgstr "Logdateien|*.log|Alle Dateien|*.*"
+
+#: uguii18n.sshow
+msgid "Show"
+msgstr "Anzeigen"
+
+#: uguii18n.sstopmonitoring
+msgid "Stop monitoring"
+msgstr "Überwachung stoppen"
+
+#: uguii18n.sexit
+msgid "Exit"
+msgstr "Beenden"
+
+#: uguii18n.snoiniconfigured
+msgid "No wincmd.ini is configured."
+msgstr "Keine wincmd.ini konfiguriert."
+
+#: uguii18n.snopluginentries
+msgid "No plugin entries were found in wincmd.ini."
+msgstr "Keine Plugin-Einträge in der wincmd.ini gefunden."
+
+#: uguii18n.sactivestatus
+msgid "Active (RH notification): %d plugins in %d directories"
+msgstr "Aktiv (RH-Benachrichtigung): %d Plugins in %d Verzeichnissen"
+
+#: uguii18n.serrorstatus
+msgid "Error: %s"
+msgstr "Fehler: %s"
+
+#: uguii18n.smonitoringtitle
+msgid "Monitoring"
+msgstr "Überwachung"
+
+#: uguii18n.smonitoringstopped
+msgid "Monitoring stopped"
+msgstr "Überwachung gestoppt"
+
+#: uguii18n.ssettingssaved
+msgid "Settings saved"
+msgstr "Einstellungen gespeichert"

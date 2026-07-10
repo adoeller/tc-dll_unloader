@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: uk\n"
+
+#: uguii18n.slogfile
+msgid "Log file:"
+msgstr "Файл журналу:"
+
+#: uguii18n.sstartmonitoringatstartup
+msgid "Start monitoring at startup"
+msgstr "Запускати моніторинг під час запуску"
+
+#: uguii18n.sminimizetotray
+msgid "Minimize to tray"
+msgstr "Згортати в трей"
+
+#: uguii18n.sclosetotray
+msgid "Close to tray"
+msgstr "Закривати в трей"
+
+#: uguii18n.sunloadonrhbreak
+msgid "Request plugin unload on RH notification"
+msgstr "Запитувати вивантаження плагінів за RH-сповіщенням"
+
+#: uguii18n.srhdebounce
+msgid "RH debounce (ms):"
+msgstr "Затримка RH (мс):"
+
+#: uguii18n.sstartmonitoring
+msgid "Start monitoring"
+msgstr "Запустити моніторинг"
+
+#: uguii18n.sstop
+msgid "Stop"
+msgstr "Зупинити"
+
+#: uguii18n.sunloadwcxhint
+msgid "Unload WCX/packer plugins now (one-time action, not a toggle)."
+msgstr "Вивантажити плагіни WCX/архіваторів зараз (одноразова дія, не перемикач)."
+
+#: uguii18n.sunloadwfxhint
+msgid "Unload WFX/file-system plugins now (one-time action, not a toggle)."
+msgstr "Вивантажити плагіни WFX/файлової системи зараз (одноразова дія, не перемикач)."
+
+#: uguii18n.sunloadwlxhint
+msgid "Unload WLX/lister plugins now (one-time action, not a toggle)."
+msgstr "Вивантажити плагіни WLX/переглядача зараз (одноразова дія, не перемикач)."
+
+#: uguii18n.sunloadwdxhint
+msgid "Unload WDX/content plugins now (one-time action, not a toggle)."
+msgstr "Вивантажити плагіни WDX/вмісту зараз (одноразова дія, не перемикач)."
+
+#: uguii18n.ssavesettings
+msgid "Save settings"
+msgstr "Зберегти налаштування"
+
+#: uguii18n.sclearlog
+msgid "Clear log"
+msgstr "Очистити журнал"
+
+#: uguii18n.sready
+msgid "Ready"
+msgstr "Готово"
+
+#: uguii18n.stotalcommanderinifilter
+msgid "Total Commander INI|wincmd.ini|INI files|*.ini|All files|*.*"
+msgstr "INI Total Commander|wincmd.ini|INI-файли|*.ini|Усі файли|*.*"
+
+#: uguii18n.slogfilefilter
+msgid "Log files|*.log|All files|*.*"
+msgstr "Файли журналу|*.log|Усі файли|*.*"
+
+#: uguii18n.sshow
+msgid "Show"
+msgstr "Показати"
+
+#: uguii18n.sstopmonitoring
+msgid "Stop monitoring"
+msgstr "Зупинити моніторинг"
+
+#: uguii18n.sexit
+msgid "Exit"
+msgstr "Вийти"
+
+#: uguii18n.snoiniconfigured
+msgid "No wincmd.ini is configured."
+msgstr "Файл wincmd.ini не налаштовано."
+
+#: uguii18n.snopluginentries
+msgid "No plugin entries were found in wincmd.ini."
+msgstr "У wincmd.ini не знайдено записів плагінів."
+
+#: uguii18n.sactivestatus
+msgid "Active (RH notification): %d plugins in %d directories"
+msgstr "Активно (RH-сповіщення): плагінів — %d, каталогів — %d"
+
+#: uguii18n.serrorstatus
+msgid "Error: %s"
+msgstr "Помилка: %s"
+
+#: uguii18n.smonitoringtitle
+msgid "Monitoring"
+msgstr "Моніторинг"
+
+#: uguii18n.smonitoringstopped
+msgid "Monitoring stopped"
+msgstr "Моніторинг зупинено"
+
+#: uguii18n.ssettingssaved
+msgid "Settings saved"
+msgstr "Налаштування збережено"
