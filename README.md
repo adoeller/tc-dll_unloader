@@ -1,5 +1,7 @@
 # TC Plugin Unloader
 
+!(Plugin)[TC Plugin Unloader.png]
+
 TC Plugin Unloader lets external tools prepare updates, replacements, renames,
 or deletion of Total Commander plugin files while Total Commander is running.
 
